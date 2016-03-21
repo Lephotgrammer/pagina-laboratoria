@@ -1,0 +1,58 @@
+/* Inserta tu código aqui */
+.titulo{
+	font-size: 24px;
+	font-family: georgia;
+	color: #CE2254;
+}
+.linea{
+	width: 80px;
+	height: 3px;
+	background-color: black;
+	position: absolute;
+	top: 50px;
+}
+.arriba{
+	
+}
+.abajo{
+	
+}
+.foto{
+	display: inline-block;
+	margin: 0 auto;
+}
+.foto img{
+	border-radius: 20%;
+}
+.fondo{
+margin: 0 auto;
+}
+.fotogrande img{
+ width: 600px;
+ height: 400px;
+ position: absolute;
+ left: 660px;
+ top: 75px;
+ border-radius: 20px;
+}
+.imag{
+	position: absolute;
+	left: 750px;
+	top: 500px;
+	width: 440px;
+	height: 215px;
+}
+.imag img{
+	height: 211px;
+	width: 211px;
+	display: inline-block;
+}
+.texto{
+	font-family: georgia;
+	font-size: 18px;
+	position: absolute;
+	width: 500px;
+	height: 500px;
+	left: 70px;
+	top: 600px;
+}
